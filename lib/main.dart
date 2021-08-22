@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tetris/screens/extensions.dart';
 import 'package:tetris/screens/home_page.dart';
 
 void main() {
